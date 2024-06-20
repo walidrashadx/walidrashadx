@@ -1,4 +1,4 @@
-![Header](https://images.pexels.com/photos/4069291/pexels-photo-4069291.jpeg?cs=srgb&dl=pexels-cottonbro-4069291.jpg&fm=jpg&h=600&w=898&fit=crop&_gl=1*jaenau*_ga*OTAzNjA1OTY3LjE3MTg5MTg2ODc.*_ga_8JE65Q40S6*MTcxODkxODY4Ny4xLjEuMTcxODkyMjM4OS4wLjAuMA..)
+![Header](https://images.pexels.com/photos/4069291/pexels-photo-4069291.jpeg?cs=srgb&dl=pexels-cottonbro-4069291.jpg&fm=jpg&h=433&w=648&fit=crop&_gl=1*18em24n*_ga*OTAzNjA1OTY3LjE3MTg5MTg2ODc.*_ga_8JE65Q40S6*MTcxODkxODY4Ny4xLjEuMTcxODkyMjM4OS4wLjAuMA..)
 
 # Hi there, I'm Walid Rashad 👋
 Welcome to my GitHub profile!  
