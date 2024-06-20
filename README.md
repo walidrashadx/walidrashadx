@@ -1,4 +1,4 @@
-![Header](https://images.pexels.com/photos/5691866/pexels-photo-5691866.jpeg?cs=srgb&dl=pexels-alex-green-5691866.jpg&fm=jpg&h=250&w=167&fit=crop&_gl=1*d2vino*_ga*OTAzNjA1OTY3LjE3MTg5MTg2ODc.*_ga_8JE65Q40S6*MTcxODkxODY4Ny4xLjEuMTcxODkyMTU5NS4wLjAuMA..)
+![Header](https://images.pexels.com/photos/4069291/pexels-photo-4069291.jpeg?cs=srgb&dl=pexels-cottonbro-4069291.jpg&fm=jpg&h=600&w=898&fit=crop&_gl=1*jaenau*_ga*OTAzNjA1OTY3LjE3MTg5MTg2ODc.*_ga_8JE65Q40S6*MTcxODkxODY4Ny4xLjEuMTcxODkyMjM4OS4wLjAuMA..)
 
 # Hi there, I'm Walid Rashad 👋
 Welcome to my GitHub profile!  
@@ -9,13 +9,6 @@ I'm a passionate developer who loves to explore new technologies and create amaz
 - 🌱 I’m currently learning Advanced PL/SQL And JavaScript.
 - 👯 I’m looking to collaborate on Open Source Oracle APEX Projects
 - 📫 How to reach me: [waleed1600@hotmail.com](mailto:waleed1600@hotmail.com)
-
-## 📈 GitHub Stats
-![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidrashadx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=dark)
 
 ## 🛠️ Technologies & Tools
 
@@ -32,6 +25,14 @@ I'm a passionate developer who loves to explore new technologies and create amaz
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+## 📈 GitHub Stats
+![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidrashadx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=dark)
+
+
 
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=onedark)
