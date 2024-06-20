@@ -2,12 +2,12 @@
 
 # Hi there, I'm Walid Rashad 👋
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves to explore new technologies and create amazing projects.
+A passionate developer who loves to explore and learn new technologies to create amazing projects.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Advanced PL/SQL And JavaScript.
-- 👯 I’m looking to collaborate on Open Source Oracle APEX Projects
+- 🌱 Currently learning Advanced PL/SQL And JavaScript.
+- 👯 Looking to collaborate on Open Source Oracle APEX Projects
 - 📫 How to reach me: [waleed1600@hotmail.com](mailto:waleed1600@hotmail.com)
 
 ## 🛠️ Technologies & Tools
@@ -35,15 +35,7 @@ I'm a passionate developer who loves to explore new technologies and create amaz
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=onedark)
 
-
-
-
-
 ## 📫 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-Walid.Rashad.Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walid-rashad/)](https://www.linkedin.com/in/walid-rashad/)
 [![Mail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white&link=mailto:waleed1600@hotmail.com)](mailto:waleed1600@hotmail.com)
-
----
-
-⭐️ [walidrashadx](https://github.com/walidrashadx)
 
