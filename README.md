@@ -1,4 +1,4 @@
-![Header](https://images.pexels.com/photos/4069291/pexels-photo-4069291.jpeg?cs=srgb&dl=pexels-cottonbro-4069291.jpg&fm=jpg&h=433&w=648&fit=crop&_gl=1*18em24n*_ga*OTAzNjA1OTY3LjE3MTg5MTg2ODc.*_ga_8JE65Q40S6*MTcxODkxODY4Ny4xLjEuMTcxODkyMjM4OS4wLjAuMA..)
+![Header](https://images.pexels.com/photos/4069291/pexels-photo-4069291.jpeg?cs=srgb&dl=pexels-cottonbro-4069291.jpg&fm=jpg&h=468&w=700&fit=crop&_gl=1*fbpafp*_ga*OTAzNjA1OTY3LjE3MTg5MTg2ODc.*_ga_8JE65Q40S6*MTcxODkxODY4Ny4xLjEuMTcxODkyMjM4OS4wLjAuMA..)
 
 # Hi there, I'm Walid Rashad 👋
 Welcome to my GitHub profile!  
@@ -25,17 +25,19 @@ I'm a passionate developer who loves to explore new technologies and create amaz
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+
 ## 📈 GitHub Stats
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidrashadx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&layout=compact&theme=radical)
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=dark)
 
-
-
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=onedark)
+
+
+
+
 
 ## 📫 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-Walid.Rashad.Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walid-rashad/)](https://www.linkedin.com/in/walid-rashad/)
