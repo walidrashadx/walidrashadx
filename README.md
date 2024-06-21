@@ -37,16 +37,12 @@ A passionate developer who explore and learn new technologies to create amazing 
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📫 Contact Me At:
 [![Linkedin Badge](https://img.shields.io/badge/-Walid.Rashad.Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walid-rashad/)](https://www.linkedin.com/in/walid-rashad/)
 [![Mail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:waleed1600@hotmail.com)](mailto:waleed1600@hotmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/Wals_/)](https://leetcode.com/u/Wals_/)
-
-
-
-
 
 
 
