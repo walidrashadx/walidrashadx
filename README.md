@@ -26,15 +26,19 @@ A passionate developer who explore and learn new technologies to create amazing 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidrashadx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=aura&hide_border=true)
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=onedark)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+
 
 
 ## 📫 Connect with Me
