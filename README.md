@@ -32,7 +32,7 @@ A passionate developer who explore and learn new technologies to create amazing 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact)](https://github.com/walidrashadx/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=aura&hide_border=true)
 
 
