@@ -3,14 +3,13 @@
 Welcome to my GitHub profile!  
 A passionate developer who explore and learn new technologies to create amazing projects.
 
-## 🚀 About Me ![Profile Views](https://komarev.com/ghpvc/?username=walidrashadx&color=blue)
+# 🚀 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=walidrashadx&color=blue)
 
 - ⭐️ Studied Industrial Engineering And systems 
 - 🌱 Currently learning Advanced PL/SQL ,JavaScript and DSA .
 - 👯 Looking to collaborate on Open Source Oracle APEX Projects.
 - 📫 How to reach me: [waleed1600@hotmail.com](mailto:waleed1600@hotmail.com)
   
-
 ## 💻 Technologies & Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,8 +31,9 @@ A passionate developer who explore and learn new technologies to create amazing 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=aura&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact)](https://github.com/walidrashadx/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=aura&hide_border=true)
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=radical&no-frame=true&no-bg=false&margin-w=4)
