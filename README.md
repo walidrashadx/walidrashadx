@@ -31,8 +31,10 @@ A passionate developer who explore and learn new technologies to create amazing 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact)](https://github.com/walidrashadx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact&exclude_repo=The-Android-App-Market-on-Google-Play)](https://github.com/walidrashadx/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=aura&hide_border=true)
+
+
 
 
 ## 🏆 GitHub Trophies:
