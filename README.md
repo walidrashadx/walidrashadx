@@ -5,7 +5,7 @@ A passionate developer who explore and learn new technologies to create amazing 
 
 # 🚀 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=walidrashadx&color=blue)
 
-- ⭐️ Studied Industrial Engineering And systems 
+- ⭐️ Studied Industrial Engineering And Systems 
 - 🌱 Currently learning Advanced PL/SQL ,JavaScript and DSA .
 - 👯 Looking to collaborate on Open Source Oracle APEX Projects.
 - 📫 How to reach me: [waleed1600@hotmail.com](mailto:waleed1600@hotmail.com)
