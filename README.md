@@ -1,6 +1,6 @@
 
 # Hi there, I'm Walid Rashad 👋
-Welcome to my GitHub profile!  
+
 A passionate developer who explore and learn new technologies to create amazing projects.
 
 # 🚀 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=walidrashadx&color=blue)
