@@ -17,7 +17,6 @@
 ### 🚀 About Me
 
 - 🏢 Designing complex database systems, REST APIs (ORDS), and Interactive Grids.
-- ⭐️ Background in Industrial Engineering And Systems.
 - 🌱 Currently deep-diving into Advanced PL/SQL, JavaScript, and DSA.
 - 👯 Looking to collaborate on Open Source Oracle APEX Projects.
 - 👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=walidrashadx&color=blue&style=flat-square" alt="Profile Views" />
