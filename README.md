@@ -22,13 +22,14 @@
 - 👯 Looking to collaborate on Open Source Oracle APEX Projects.
 - 👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=walidrashadx&color=blue&style=flat-square" alt="Profile Views" />
 
-### 🧭 What I Am Building
+### 🧭 What I Build
 
 <table>
   <tr>
-    <td width="33%"><strong>Data systems</strong><br />Reliable Oracle schemas, reporting layers, and REST APIs.</td>
-    <td width="33%"><strong>Better interfaces</strong><br />Fast, accessible APEX experiences with thoughtful UX.</td>
-    <td width="33%"><strong>Shared knowledge</strong><br />Practical notes on APEX, PL/SQL, JavaScript, and problem solving.</td>
+    <td width="25%"><strong>⚡ Modern APEX Apps</strong><br />Responsive Oracle APEX applications, reusable extensions, interactive dashboards, and polished user experiences.</td>
+    <td width="25%"><strong>🏢 CRM & ERP Platforms</strong><br />Full standalone business systems that turn complex workflows into connected, practical products.</td>
+    <td width="25%"><strong>☁️ Oracle Cloud Solutions</strong><br />VBCS applications, ORDS APIs, PL/SQL services, and integrations built for the Oracle ecosystem.</td>
+    <td width="25%"><strong>🔔 Automation & Notifications</strong><br />Workflow automation, scheduled jobs, approvals, email alerts, and real-time business notifications that keep teams moving.</td>
   </tr>
 </table>
 
@@ -62,12 +63,10 @@
 
 ### 📊 GitHub Activity
 
-_(Note: If stats fail to load, the public API is temporarily rate-limited and will restore automatically)._
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact&exclude_repo=The-Android-App-Market-on-Google-Play" alt="Top Languages" width="100%" />
