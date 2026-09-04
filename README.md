@@ -22,11 +22,22 @@
 - 👯 Looking to collaborate on Open Source Oracle APEX Projects.
 - 👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=walidrashadx&color=blue&style=flat-square" alt="Profile Views" />
 
+### 🧭 What I Am Building
+
+<table>
+  <tr>
+    <td width="33%"><strong>Data systems</strong><br />Reliable Oracle schemas, reporting layers, and REST APIs.</td>
+    <td width="33%"><strong>Better interfaces</strong><br />Fast, accessible APEX experiences with thoughtful UX.</td>
+    <td width="33%"><strong>Shared knowledge</strong><br />Practical notes on APEX, PL/SQL, JavaScript, and problem solving.</td>
+  </tr>
+</table>
+
 ---
 
 ### 💻 Technologies & Architecture
 
 **Core Stack:**
+
 <p>
   <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
@@ -35,6 +46,7 @@
 </p>
 
 **Languages & Tools:**
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,git,github,vscode" alt="Skills" />
@@ -48,9 +60,9 @@
 
 ---
 
-### 📊 GitHub Activity 
+### 📊 GitHub Activity
 
-*(Note: If stats fail to load, the public API is temporarily rate-limited and will restore automatically).*
+_(Note: If stats fail to load, the public API is temporarily rate-limited and will restore automatically)._
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -58,7 +70,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact&exclude_repo=The-Android-App-Market-on-Google-Play" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walidrashadx&theme=aura&hide_border=true&include_all_commits=true&layout=compact&exclude_repo=The-Android-App-Market-on-Google-Play" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -67,15 +79,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=walidrashadx&theme=aura&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Trophies are temporarily hidden via HTML comments when the API is down. Remove the comments to re-enable them when the Vercel server stabilizes. -->
-<!-- 
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walidrashadx&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=walidrashadx&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a>
 </p>
--->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20ACE-Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle ACE Associate" />
+  <a href="https://leetcode.com/u/Wals_/"><img src="https://img.shields.io/badge/LeetCode-Wals_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Walid Rashad on LeetCode" /></a>
+</p>
 
 ---
 
 ### 📝 Latest on nodehash.dev
+
 <!-- You can use GitHub Actions (like gautamkrishnar/blog-post-workflow) to automatically fetch your latest blog posts here! -->
-* 📖 *Publishing technical articles on APEX, PL/SQL, JavaScript, and UI Customization.*
+
+- 📖 _Publishing technical articles on APEX, PL/SQL, JavaScript, and UI Customization._
