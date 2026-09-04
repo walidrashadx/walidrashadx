@@ -2,7 +2,7 @@
 <h3 align="center">Senior Oracle APEX Developer | Oracle ACE Associate</h3>
 
 <p align="center">
-  <em>A passionate database engineer exploring advanced backend architecture, modern UI design, and sharing technical insights.</em>
+  <em>A passionate Developer exploring advanced backend architecture, modern UI design, and sharing technical insights.</em>
 </p>
 
 <p align="center">
