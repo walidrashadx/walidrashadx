@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-rashad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:waleed1600@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://nodehash.dev"><img src="https://img.shields.io/badge/Blog-nodehash.dev-212121?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://walidrashad.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-nodehash.dev-212121?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
   <a href="https://leetcode.com/u/Wals_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
